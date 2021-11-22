@@ -1,20 +1,21 @@
 [
   {
     "id": 1,
-    "name": "Driwwwle",
-    "image": "https://imgur.com/kbGs6zH.png",
-    "description": "A platform for web developers to showcase their projects",
-    "tags": ["next", "node", "mongodb", "tailwind", "react-query"],
-    "source_code": "https://github.com/itsnitinr/driwwwle-v2",
-    "demo": "https://driwwwle.com/"
+    "name": "React Counter",
+    "image": "https://imgur.com/5gkLMJh.png",
+    "description": "A counter app that changes count using React",
+    "tags": ["reactJS", "html", "css"],
+    "source_code": "https://github.com/adamhartman5/react-counter-app",
+    "demo": "https://elastic-mclean-a602ec.netlify.app"
   },
   {
     "id": 2,
-    "name": "PCB Cupid",
-    "image": "https://imgur.com/tAZotn3.png",
-    "description": "E-commerce website for a PCB manufacturing company",
-    "tags": ["react", "node", "mongodb", "redux", "razorpay", "material-ui"],
-    "demo": "https://www.pcbcupid.com/"
+    "name": "Background Color Generator",
+    "image": "https://imgur.com/UYpZvli.png",
+    "description": "An app that changes the background color with the click of button",
+    "tags": ["reactJS", "html", "css"],
+    "source_code": "https://github.com/adamhartman5/background-color-randomizer",
+    "demo": "https://determined-payne-7db01a.netlify.app/"
   },
   {
     "id": 3,
